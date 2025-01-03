@@ -5,7 +5,7 @@
 | <img width=300/> | <img width=800/> |
 | :-----: | :-: |
 | Email | **<vargasbryan625@gmail.com>** |
-| linkedin | **[Bryan Vargas](<https://www.linkedin.com/in/bryan-vargas-581185194/>){:target="_blank"}** | 
+| linkedin | **[Bryan Vargas](<https://www.linkedin.com/in/bryan-vargas-581185194/>)** | 
 | <img width=300/> |  |
   
 <hr>
